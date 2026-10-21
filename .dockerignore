@@ -1,0 +1,7 @@
+.git
+**/node_modules
+**/target
+**/.DS_Store
+**/.env
+**/.env.*
+**/*.kubeconfig

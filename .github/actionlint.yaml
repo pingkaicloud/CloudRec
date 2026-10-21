@@ -1,0 +1,3 @@
+self-hosted-runner:
+  labels:
+    - pingkai-runner-cn-shanghai-clinic
